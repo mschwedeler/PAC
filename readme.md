@@ -15,7 +15,11 @@ To run this code, you will need to first obtain the following input files:
  - the `CampaignFinXX.zip` files from the CRP.
 I provided a bit more information about these input files in the readme files of the respective input folders.
 
+<<<<<<< HEAD
 Then adjust the homedir in the first few lines of each code file. Also, create an `output/` folder. Finally, run each file separately and in the order indicated in the file name.
+=======
+Then adjust the homedir in the first few lines of each code file. Finally, run each file separately and in the order indicated in the file name.
+>>>>>>> fecdf6f0d0ba371d4052163af8aed43521ae16ec
 
 Contents of requirements.txt
 `fuzzywuzzy==0.17.0`

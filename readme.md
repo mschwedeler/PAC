@@ -13,10 +13,8 @@ To run this code, you will need to first obtain the following input files:
 I provided a bit more information about these input files in the readme files of the respective input folders.
 
 Contents of requirements.txt
-`
-fuzzywuzzy==0.17.0
-joblib==0.14.0
-pandas==1.1.5
-`
+`fuzzywuzzy==0.17.0
+`joblib==0.14.0`
+`pandas==1.1.5`
 
 Use at your own responsibility.

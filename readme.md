@@ -13,6 +13,7 @@ The structure of the code is as follows:
 To run this code, you will need to first obtain the following input files:
  - the `company` and `g_company` file from WRDS
  - the `CampaignFinXX.zip` files from the CRP.
+
 I provided a bit more information about these input files in the readme files of the respective input folders.
 
 Then

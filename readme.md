@@ -15,10 +15,16 @@ To run this code, you will need to first obtain the following input files:
  - the `CampaignFinXX.zip` files from the CRP.
 I provided a bit more information about these input files in the readme files of the respective input folders.
 
+<<<<<<< HEAD
 Then
  - adjust the homedir in the first few lines of each code file;
  - create an `output/` folder; and
  - run each file separately and in the order indicated in the file name.
+=======
+Then adjust the homedir in the first few lines of each code file. Also, create an `output/` folder. Finally, run each file separately and in the order indicated in the file name.
+=======
+Then adjust the homedir in the first few lines of each code file. Finally, run each file separately and in the order indicated in the file name.
+>>>>>>> 97daf3d5f1407115d74fda69d34f27769676bda9
 
 Contents of requirements.txt
 ```

@@ -15,16 +15,17 @@ To run this code, you will need to first obtain the following input files:
  - the `CampaignFinXX.zip` files from the CRP.
 I provided a bit more information about these input files in the readme files of the respective input folders.
 
-<<<<<<< HEAD
-Then adjust the homedir in the first few lines of each code file. Also, create an `output/` folder. Finally, run each file separately and in the order indicated in the file name.
-=======
-Then adjust the homedir in the first few lines of each code file. Finally, run each file separately and in the order indicated in the file name.
->>>>>>> fecdf6f0d0ba371d4052163af8aed43521ae16ec
+Then
+ - adjust the homedir in the first few lines of each code file;
+ - create an `output/` folder; and
+ - run each file separately and in the order indicated in the file name.
 
 Contents of requirements.txt
-`fuzzywuzzy==0.17.0`
-`joblib==0.14.0`
-`pandas==1.1.5`
+```
+fuzzywuzzy==0.17.0
+joblib==0.14.0
+pandas==1.1.5
+```
 
 # Disclaimer
 Use at your own responsibility.

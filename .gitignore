@@ -1,0 +1,10 @@
+# ignore input files
+*.zip
+*.csv
+*.pdf
+
+# ignore output files
+*.dta
+
+# python files
+**/__pycache__
